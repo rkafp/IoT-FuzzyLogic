@@ -8,7 +8,7 @@
 - Hot: 36 - 50 °C
 
 ## Humidity:
-- Dry: 0 - 30% humidity
+- Dry: 0 - 30%
 - Comfortable: 30 - 60%
 - Humid: 60 - 90%
 - Very humid: 90 - 100%
